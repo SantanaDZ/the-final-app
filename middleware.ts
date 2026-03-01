@@ -14,7 +14,8 @@ export const config = {
          * - favicon.ico (favicon file)
          * - public files (images, fonts, etc)
          * - the root path /
+         * - the login and registration pages
          */
-        '/((?!_next/static|_next/image|favicon.ico|$|.*\\.(?:svg|png|jpg|jpeg|gif|webp)$).*)',
+        '/((?!_next/static|_next/image|favicon.ico|$|login|cadastro|.*\\.(?:svg|png|jpg|jpeg|gif|webp)$).*)',
     ],
 }
