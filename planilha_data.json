@@ -1,0 +1,3941 @@
+{
+  "Outubro": [
+    {
+      "__EMPTY_5": "Outubro"
+    },
+    {
+      "__EMPTY": "ENTRADAS",
+      "__EMPTY_5": "GASTOS FIXOS",
+      "__EMPTY_11": "GASTOS VARIÁVEIS",
+      "__EMPTY_18": "COFRINHOS"
+    },
+    {
+      "__EMPTY": "Data",
+      "__EMPTY_1": "Descrição",
+      "__EMPTY_2": "Valor",
+      "__EMPTY_3": "Forma",
+      "__EMPTY_5": "Data",
+      "__EMPTY_6": "Descrição",
+      "__EMPTY_7": "Categoria",
+      "__EMPTY_8": "Valor",
+      "__EMPTY_9": "Forma",
+      "__EMPTY_11": "Data",
+      "__EMPTY_12": "Descrição",
+      "__EMPTY_13": "Categoria",
+      "__EMPTY_14": "Parcelas",
+      "__EMPTY_15": "Valor",
+      "__EMPTY_16": "Forma",
+      "__EMPTY_18": "Data",
+      "__EMPTY_19": "Categoria",
+      "__EMPTY_20": "Valor",
+      "__EMPTY_21": "Rendimentos",
+      "__EMPTY_22": "Prazo",
+      "__EMPTY_23": "Progreso",
+      "__EMPTY_24": "Meta"
+    },
+    {
+      "__EMPTY": "07/10",
+      "__EMPTY_1": "Reembolsos",
+      "__EMPTY_2": 88,
+      "__EMPTY_3": "Itaú",
+      "__EMPTY_5": 45919,
+      "__EMPTY_6": "WeMeds",
+      "__EMPTY_7": "Educação médica",
+      "__EMPTY_8": 34.99,
+      "__EMPTY_9": "Itaú",
+      "__EMPTY_11": 45751,
+      "__EMPTY_12": "Tênis André",
+      "__EMPTY_13": "Reembolsos",
+      "__EMPTY_14": 45907,
+      "__EMPTY_15": 99.99,
+      "__EMPTY_16": "Nubank",
+      "__EMPTY_18": 45947,
+      "__EMPTY_19": "Reserva",
+      "__EMPTY_20": 10000,
+      "__EMPTY_22": "-",
+      "__EMPTY_23": 0.4,
+      "__EMPTY_24": 25000
+    },
+    {
+      "__EMPTY": "13/10",
+      "__EMPTY_1": "Reembolsos",
+      "__EMPTY_2": 104.9,
+      "__EMPTY_3": "Itaú",
+      "__EMPTY_5": 45925,
+      "__EMPTY_6": "Ta de Clinicagem",
+      "__EMPTY_7": "Educação médica",
+      "__EMPTY_8": 34.9,
+      "__EMPTY_9": "Itaú",
+      "__EMPTY_11": 45804,
+      "__EMPTY_12": "Apice Comesticos",
+      "__EMPTY_13": "Bem-estar/Saúde",
+      "__EMPTY_14": 45782,
+      "__EMPTY_15": 46.78,
+      "__EMPTY_16": "Nubank",
+      "__EMPTY_18": 45950,
+      "__EMPTY_19": "Residência",
+      "__EMPTY_20": 3200,
+      "__EMPTY_22": 46447,
+      "__EMPTY_23": 0.064,
+      "__EMPTY_24": 50000
+    },
+    {
+      "__EMPTY": "13/10",
+      "__EMPTY_1": "Aval",
+      "__EMPTY_2": 640,
+      "__EMPTY_3": "Itaú",
+      "__EMPTY_5": 45926,
+      "__EMPTY_6": "Vivo Celular",
+      "__EMPTY_7": "Celular/tecnologia",
+      "__EMPTY_8": 85,
+      "__EMPTY_9": "Itaú",
+      "__EMPTY_11": 45857,
+      "__EMPTY_12": "Araújo",
+      "__EMPTY_13": "Bem-estar/Saúde",
+      "__EMPTY_14": 45719,
+      "__EMPTY_15": 95.08,
+      "__EMPTY_16": "Itaú",
+      "__EMPTY_18": 45950,
+      "__EMPTY_19": "Móveis",
+      "__EMPTY_20": 1000,
+      "__EMPTY_22": 46023,
+      "__EMPTY_23": 0.1538461538,
+      "__EMPTY_24": 6500
+    },
+    {
+      "__EMPTY": "14/10",
+      "__EMPTY_1": "Asmel",
+      "__EMPTY_2": 1988,
+      "__EMPTY_3": "Itaú",
+      "__EMPTY_5": 45936,
+      "__EMPTY_6": "Spotify",
+      "__EMPTY_7": "Lazer",
+      "__EMPTY_8": 15.95,
+      "__EMPTY_9": "Pix",
+      "__EMPTY_11": 45891,
+      "__EMPTY_12": "Autoescola",
+      "__EMPTY_13": "Educação médica",
+      "__EMPTY_14": 45718,
+      "__EMPTY_15": 390.22,
+      "__EMPTY_16": "Itaú",
+      "__EMPTY_18": 45950,
+      "__EMPTY_19": "Viagem",
+      "__EMPTY_20": 1000,
+      "__EMPTY_22": 45992,
+      "__EMPTY_23": 0.2,
+      "__EMPTY_24": 5000
+    },
+    {
+      "__EMPTY": "14/10",
+      "__EMPTY_1": "Salubritá",
+      "__EMPTY_2": 3199.11,
+      "__EMPTY_3": "Nubank",
+      "__EMPTY_5": 45937,
+      "__EMPTY_6": "Contabilidade",
+      "__EMPTY_7": "Contabilidade/impostos",
+      "__EMPTY_8": 282.4,
+      "__EMPTY_9": "Boleto",
+      "__EMPTY_11": 45894,
+      "__EMPTY_12": "Presente Bee",
+      "__EMPTY_13": "Presentes",
+      "__EMPTY_14": 45690,
+      "__EMPTY_15": 54.75,
+      "__EMPTY_16": "Itaú",
+      "__EMPTY_19": "Total",
+      "__EMPTY_20": 15200,
+      "__EMPTY_23": 0.1757225434,
+      "__EMPTY_24": 86500
+    },
+    {
+      "__EMPTY": "17/10",
+      "__EMPTY_1": "Reembolsos",
+      "__EMPTY_2": 79.72,
+      "__EMPTY_3": "Itaú",
+      "__EMPTY_5": 45938,
+      "__EMPTY_6": "Manicure",
+      "__EMPTY_7": "Beleza",
+      "__EMPTY_8": 148.92,
+      "__EMPTY_9": "Itaú",
+      "__EMPTY_11": 45905,
+      "__EMPTY_12": "Tênis Andrê",
+      "__EMPTY_13": "Reembolsos",
+      "__EMPTY_14": 45902,
+      "__EMPTY_15": 100.07,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY": "20/10",
+      "__EMPTY_1": "Reembolsos",
+      "__EMPTY_2": 60,
+      "__EMPTY_3": "Itaú",
+      "__EMPTY_5": 45942,
+      "__EMPTY_6": "Whitebook",
+      "__EMPTY_7": "Educação médica",
+      "__EMPTY_8": 69.9,
+      "__EMPTY_9": "Itaú",
+      "__EMPTY_11": 45905,
+      "__EMPTY_12": "Marisa",
+      "__EMPTY_13": "Roupas/acessórios",
+      "__EMPTY_14": 45718,
+      "__EMPTY_15": 112.32,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY": "20/10",
+      "__EMPTY_1": "Outros",
+      "__EMPTY_2": 325,
+      "__EMPTY_3": "Nubank",
+      "__EMPTY_5": 45943,
+      "__EMPTY_6": "Canva Mãe",
+      "__EMPTY_7": "Reembolsos",
+      "__EMPTY_8": 34.9,
+      "__EMPTY_9": "Nubank",
+      "__EMPTY_11": 45905,
+      "__EMPTY_12": "Compra centro",
+      "__EMPTY_13": "Futilidades",
+      "__EMPTY_14": 45690,
+      "__EMPTY_15": 57,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY": "24/10",
+      "__EMPTY_1": "Reembolsos",
+      "__EMPTY_2": 35,
+      "__EMPTY_3": "Itaú",
+      "__EMPTY_5": 45944,
+      "__EMPTY_6": "Gympass",
+      "__EMPTY_7": "Bem-estar/Saúde",
+      "__EMPTY_8": 139.9,
+      "__EMPTY_9": "Itaú",
+      "__EMPTY_11": 45916,
+      "__EMPTY_12": "Presente Rafa",
+      "__EMPTY_13": "Presentes",
+      "__EMPTY_14": 45690,
+      "__EMPTY_15": 87.95,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY": "28/10",
+      "__EMPTY_1": "Rendimentos",
+      "__EMPTY_2": 23.78,
+      "__EMPTY_3": "Itaú",
+      "__EMPTY_5": 45946,
+      "__EMPTY_6": "Gympass André",
+      "__EMPTY_7": "Reembolsos",
+      "__EMPTY_8": 189.9,
+      "__EMPTY_9": "Itaú",
+      "__EMPTY_11": 45919,
+      "__EMPTY_12": "DiSavoia pizzaria",
+      "__EMPTY_13": "Eventos",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 80.21,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY": "27/10",
+      "__EMPTY_1": "Aval",
+      "__EMPTY_2": 800,
+      "__EMPTY_3": "Itaú",
+      "__EMPTY_5": 45948,
+      "__EMPTY_6": "Google One",
+      "__EMPTY_7": "Celular/tecnologia",
+      "__EMPTY_8": 14.99,
+      "__EMPTY_9": "Itaú",
+      "__EMPTY_11": 45920,
+      "__EMPTY_12": "Uber (aniver Mãe)",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 30.94,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_1": "Total",
+      "__EMPTY_2": 7343.51,
+      "__EMPTY_6": "Total",
+      "__EMPTY_8": 1051.75,
+      "__EMPTY_11": 45920,
+      "__EMPTY_12": "Uber (aniver Davi)",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 12.93,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_1": "Salário mês",
+      "__EMPTY_2": 6627.11,
+      "__EMPTY_3": 0.9024444714,
+      "__EMPTY_11": 45921,
+      "__EMPTY_12": "99 (aniver Davi)",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 31.5,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45921,
+      "__EMPTY_12": "99moto (Velocity)",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 6.7,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45921,
+      "__EMPTY_12": "Principia",
+      "__EMPTY_13": "Bem-estar/Saúde",
+      "__EMPTY_14": 45689,
+      "__EMPTY_15": 56.5,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45922,
+      "__EMPTY_12": "Livro Amazon",
+      "__EMPTY_13": "Lazer",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 15.96,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_1": "BALANÇO DO MÊS",
+      "__EMPTY_11": 45923,
+      "__EMPTY_12": "Corte cabelo",
+      "__EMPTY_13": "Beleza",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 160,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_2": "Valores",
+      "__EMPTY_3": "Meta",
+      "__EMPTY_11": 45923,
+      "__EMPTY_12": "Lanche padaria",
+      "__EMPTY_13": "Alimentação",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 13.34,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_1": "Saldo inicial",
+      "__EMPTY_2": 16912.04,
+      "__EMPTY_11": 45923,
+      "__EMPTY_12": "Morangos",
+      "__EMPTY_13": "Alimentação",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 11.97,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_1": "Entradas ",
+      "__EMPTY_2": 7343.51,
+      "__EMPTY_11": 45924,
+      "__EMPTY_12": "Araújo",
+      "__EMPTY_13": "Bem-estar/Saúde",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 77.58,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_1": "Fatura Itaú",
+      "__EMPTY_2": 4842.27,
+      "__EMPTY_3": 4861.28,
+      "__EMPTY_11": 45925,
+      "__EMPTY_12": "Chocolate Asmel",
+      "__EMPTY_13": "Alimentação",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 4,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_1": "Fatura NuBank",
+      "__EMPTY_11": 45926,
+      "__EMPTY_12": "Riachuelo",
+      "__EMPTY_13": "Roupas/acessórios",
+      "__EMPTY_14": 45717,
+      "__EMPTY_15": 106.66,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_1": "Saídas",
+      "__EMPTY_2": 5968.24,
+      "__EMPTY_11": 45926,
+      "__EMPTY_12": "Presente Mãe",
+      "__EMPTY_13": "Presentes",
+      "__EMPTY_14": 45689,
+      "__EMPTY_15": 51.75,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_1": "Investidos",
+      "__EMPTY_2": 15200,
+      "__EMPTY_11": 45926,
+      "__EMPTY_12": "Deck Boi na Brasa",
+      "__EMPTY_13": "Eventos",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 43.15,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_1": "Saldo do mês",
+      "__EMPTY_2": 3087.31,
+      "__EMPTY_11": 45926,
+      "__EMPTY_12": "Banheiro Cidade",
+      "__EMPTY_13": "Futilidades",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 2.5,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45927,
+      "__EMPTY_12": "Uber (niver Brandão)",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 10.92,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45928,
+      "__EMPTY_12": "Uber (arena do espeto)",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 25.91,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45928,
+      "__EMPTY_12": "99 (arena do espeto)",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 23.8,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45928,
+      "__EMPTY_12": "Bebidas Arena do Espeto",
+      "__EMPTY_13": "Eventos",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 46,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45931,
+      "__EMPTY_12": "Almoço Salubritá",
+      "__EMPTY_13": "Alimentação",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 25.05,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45931,
+      "__EMPTY_12": "Uber inloco",
+      "__EMPTY_13": "Reembolsos",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 84.96,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45931,
+      "__EMPTY_12": "Uber inloco",
+      "__EMPTY_13": "Reembolsos",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 101.6,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45932,
+      "__EMPTY_12": "Marcação laser",
+      "__EMPTY_13": "Beleza",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 20,
+      "__EMPTY_16": "Pix"
+    },
+    {
+      "__EMPTY_11": 45932,
+      "__EMPTY_12": "Uber Asmel",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 24.96,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45932,
+      "__EMPTY_12": "Lanche Asmel",
+      "__EMPTY_13": "Alimentação",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 11,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45933,
+      "__EMPTY_12": "Picolé Oggi",
+      "__EMPTY_13": "Alimentação",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 2.75,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45933,
+      "__EMPTY_12": "Lojas Rede",
+      "__EMPTY_13": "Bem-estar/Saúde",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 23.99,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45933,
+      "__EMPTY_12": "Vestido amarelo",
+      "__EMPTY_13": "Roupas/acessórios",
+      "__EMPTY_14": 45689,
+      "__EMPTY_15": 100,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45933,
+      "__EMPTY_12": "Uber (aniver Jonex)",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 13.92,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45934,
+      "__EMPTY_12": "Bar do Bem",
+      "__EMPTY_13": "Eventos",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 20.3,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45934,
+      "__EMPTY_12": "Bar do Isaque",
+      "__EMPTY_13": "Eventos",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 7,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45934,
+      "__EMPTY_12": "Bebidas 3pretos",
+      "__EMPTY_13": "Eventos",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 40,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45934,
+      "__EMPTY_12": "99 (aniver Isadora)",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 13.4,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45934,
+      "__EMPTY_12": "Entrada 3Pretos",
+      "__EMPTY_13": "Eventos",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 22.95,
+      "__EMPTY_16": "Nubank"
+    },
+    {
+      "__EMPTY_11": 45935,
+      "__EMPTY_12": "99 (aniver Isadora)",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 19.63,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45935,
+      "__EMPTY_12": "Baxo bar",
+      "__EMPTY_13": "Eventos",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 22,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45935,
+      "__EMPTY_12": "Mi corazon ",
+      "__EMPTY_13": "Eventos",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 33,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45935,
+      "__EMPTY_12": "Uber (Baxo bar)",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 25.95,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45937,
+      "__EMPTY_12": "Cervejas Brandão",
+      "__EMPTY_13": "Eventos",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 27,
+      "__EMPTY_16": "Pix"
+    },
+    {
+      "__EMPTY_11": 45937,
+      "__EMPTY_12": "Sushi mãe",
+      "__EMPTY_13": "Alimentação",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 45.43,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45937,
+      "__EMPTY_12": "Beco acessórios",
+      "__EMPTY_13": "Roupas/acessórios",
+      "__EMPTY_14": 45689,
+      "__EMPTY_15": 40.5,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45937,
+      "__EMPTY_12": "BHbus",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 50,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45937,
+      "__EMPTY_12": "Presente Ana Souto",
+      "__EMPTY_13": "Presentes",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 167.25,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45937,
+      "__EMPTY_12": "Acessórios Chinês",
+      "__EMPTY_13": "Roupas/acessórios",
+      "__EMPTY_14": 45689,
+      "__EMPTY_15": 66,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45937,
+      "__EMPTY_12": "99 (shopping Mãe)",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 30.2,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45938,
+      "__EMPTY_12": "99 (manicure)",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 16.6,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45938,
+      "__EMPTY_12": "99 (manicure)",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 12.6,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45938,
+      "__EMPTY_12": "Peixe frito Salubritá",
+      "__EMPTY_13": "Alimentação",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 43.45,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45938,
+      "__EMPTY_12": "Natura",
+      "__EMPTY_13": "Beleza",
+      "__EMPTY_14": 45689,
+      "__EMPTY_15": 62.4,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45939,
+      "__EMPTY_12": "Uber Asmel",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 20.97,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45940,
+      "__EMPTY_12": "Depilação laser",
+      "__EMPTY_13": "Beleza",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 200,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45940,
+      "__EMPTY_12": "Headphone",
+      "__EMPTY_13": "Lazer",
+      "__EMPTY_14": 45689,
+      "__EMPTY_15": 75,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45940,
+      "__EMPTY_12": "99 (laser)",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 16.6,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45940,
+      "__EMPTY_12": "99 (laser)",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 14.8,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45941,
+      "__EMPTY_12": "99 (clube Sirio)",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 18.05,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45941,
+      "__EMPTY_12": "Resenha da Nath Giulia",
+      "__EMPTY_13": "Eventos",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 58,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45941,
+      "__EMPTY_12": "99 (niver Giulia)",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 19.55,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45941,
+      "__EMPTY_12": "99 (niver Giulia)",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 19.85,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45942,
+      "__EMPTY_12": "Buser SJC",
+      "__EMPTY_13": "Viagens",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 174.9,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45943,
+      "__EMPTY_12": "Clube Sírio",
+      "__EMPTY_13": "Eventos",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 96,
+      "__EMPTY_16": "Pix"
+    },
+    {
+      "__EMPTY_11": 45944,
+      "__EMPTY_12": "Avaliação André",
+      "__EMPTY_13": "Presentes",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 50,
+      "__EMPTY_16": "Pix"
+    },
+    {
+      "__EMPTY_11": 45944,
+      "__EMPTY_12": "99 Salubritá",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 16.8,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45944,
+      "__EMPTY_12": "Suco Pilates",
+      "__EMPTY_13": "Alimentação",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 5.19,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45945,
+      "__EMPTY_12": "Peixe frito Salubritá",
+      "__EMPTY_13": "Alimentação",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 46.75,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45945,
+      "__EMPTY_12": "Uber (Aval)",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 12.45,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45946,
+      "__EMPTY_12": "Avião Bahia",
+      "__EMPTY_13": "Viagens",
+      "__EMPTY_14": 45901,
+      "__EMPTY_15": 99.82,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45946,
+      "__EMPTY_12": "Taxa de embarque ????",
+      "__EMPTY_13": "Viagens",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 86.28,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45946,
+      "__EMPTY_12": "Lanche Asmel",
+      "__EMPTY_13": "Alimentação",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 3.5,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45946,
+      "__EMPTY_12": "Uber Asmel",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 18.95,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45947,
+      "__EMPTY_12": "99 (Vale Tudo Milena)",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 28.5,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45947,
+      "__EMPTY_12": "Bar Robson Stella",
+      "__EMPTY_13": "Eventos",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 146.72,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45948,
+      "__EMPTY_12": "Entrada Rolé Andre",
+      "__EMPTY_13": "Eventos",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 120,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45948,
+      "__EMPTY_12": "99 André e Fran",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 20.2,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45948,
+      "__EMPTY_12": "99 André e Fran",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 12.3,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45948,
+      "__EMPTY_12": "Café Cultura",
+      "__EMPTY_13": "Eventos",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 40,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45948,
+      "__EMPTY_12": "Uber Fran e André",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 34.94,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45951,
+      "__EMPTY_12": "Pousada Bahia",
+      "__EMPTY_13": "Viagens",
+      "__EMPTY_14": 0.3,
+      "__EMPTY_15": 300,
+      "__EMPTY_16": "Pix"
+    },
+    {
+      "__EMPTY_11": 45958,
+      "__EMPTY_12": "Ficha academia",
+      "__EMPTY_13": "Bem-estar/Saúde",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 100,
+      "__EMPTY_16": "Pix"
+    },
+    {
+      "__EMPTY_11": 45961,
+      "__EMPTY_12": "Desafio fitness",
+      "__EMPTY_13": "Bem-estar/Saúde",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 30,
+      "__EMPTY_16": "Pix"
+    },
+    {
+      "__EMPTY_12": "Total",
+      "__EMPTY_15": 4916.49
+    },
+    {
+      "__EMPTY_11": "PARCELAS"
+    },
+    {
+      "__EMPTY_11": "Data",
+      "__EMPTY_12": "Descrição",
+      "__EMPTY_13": "Categoria",
+      "__EMPTY_14": "Parcelas",
+      "__EMPTY_15": "Valor",
+      "__EMPTY_16": "Forma"
+    },
+    {
+      "__EMPTY_11": 45751,
+      "__EMPTY_12": "Tênis André",
+      "__EMPTY_13": "Reembolsos",
+      "__EMPTY_14": 45907,
+      "__EMPTY_15": 99.99,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45804,
+      "__EMPTY_12": "Apice Comesticos",
+      "__EMPTY_13": "Bem-estar/Saúde",
+      "__EMPTY_14": 45782,
+      "__EMPTY_15": 46.78,
+      "__EMPTY_16": "Nubank"
+    },
+    {
+      "__EMPTY_11": 45857,
+      "__EMPTY_12": "Araújo",
+      "__EMPTY_13": "Bem-estar/Saúde",
+      "__EMPTY_14": 45719,
+      "__EMPTY_15": 95.08,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45891,
+      "__EMPTY_12": "Autoescola",
+      "__EMPTY_13": "Educação médica",
+      "__EMPTY_14": 45718,
+      "__EMPTY_15": 390.22,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45894,
+      "__EMPTY_12": "Presente Bee",
+      "__EMPTY_13": "Presentes",
+      "__EMPTY_14": 45690,
+      "__EMPTY_15": 54.75,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45905,
+      "__EMPTY_12": "Tênis Andrê",
+      "__EMPTY_13": "Reembolsos",
+      "__EMPTY_14": 45902,
+      "__EMPTY_15": 100.07,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45905,
+      "__EMPTY_12": "Marisa",
+      "__EMPTY_13": "Roupas/acessórios",
+      "__EMPTY_14": 45718,
+      "__EMPTY_15": 112.32,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45905,
+      "__EMPTY_12": "Compra centro",
+      "__EMPTY_13": "Futilidades",
+      "__EMPTY_14": 45690,
+      "__EMPTY_15": 57,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45916,
+      "__EMPTY_12": "Presente Rafa",
+      "__EMPTY_13": "Presentes",
+      "__EMPTY_14": 45690,
+      "__EMPTY_15": 87.95,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45921,
+      "__EMPTY_12": "Principia",
+      "__EMPTY_13": "Bem-estar/Saúde",
+      "__EMPTY_14": 45689,
+      "__EMPTY_15": 56.5,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45926,
+      "__EMPTY_12": "Riachuelo",
+      "__EMPTY_13": "Roupas/acessórios",
+      "__EMPTY_14": 45717,
+      "__EMPTY_15": 106.66,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45926,
+      "__EMPTY_12": "Presente Mãe",
+      "__EMPTY_13": "Presentes",
+      "__EMPTY_14": 45689,
+      "__EMPTY_15": 51.75,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45933,
+      "__EMPTY_12": "Vestido amarelo",
+      "__EMPTY_13": "Roupas/acessórios",
+      "__EMPTY_14": 45689,
+      "__EMPTY_15": 100,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45937,
+      "__EMPTY_12": "Beco acessórios",
+      "__EMPTY_13": "Roupas/acessórios",
+      "__EMPTY_14": 45689,
+      "__EMPTY_15": 40.5,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45937,
+      "__EMPTY_12": "Acessórios Chinês",
+      "__EMPTY_13": "Roupas/acessórios",
+      "__EMPTY_14": 45689,
+      "__EMPTY_15": 66,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45938,
+      "__EMPTY_12": "Natura",
+      "__EMPTY_13": "Beleza",
+      "__EMPTY_14": 45689,
+      "__EMPTY_15": 62.4,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45940,
+      "__EMPTY_12": "Headphone",
+      "__EMPTY_13": "Lazer",
+      "__EMPTY_14": 45689,
+      "__EMPTY_15": 75,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45946,
+      "__EMPTY_12": "Avião Bahia",
+      "__EMPTY_13": "Viagens",
+      "__EMPTY_14": 45901,
+      "__EMPTY_15": 99.82,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45951,
+      "__EMPTY_12": "Pousada Bahia",
+      "__EMPTY_13": "Viagens",
+      "__EMPTY_14": 0.3,
+      "__EMPTY_15": 300,
+      "__EMPTY_16": "Pix"
+    },
+    {
+      "__EMPTY_12": "Total",
+      "__EMPTY_15": 2002.79
+    }
+  ],
+  "Novembro": [
+    {
+      "__EMPTY_5": "Novembro"
+    },
+    {
+      "__EMPTY": "ENTRADAS",
+      "__EMPTY_5": "GASTOS FIXOS",
+      "__EMPTY_11": "GASTOS VARIÁVEIS",
+      "__EMPTY_18": "COFRINHOS"
+    },
+    {
+      "__EMPTY": "Data",
+      "__EMPTY_1": "Descrição",
+      "__EMPTY_2": "Valor",
+      "__EMPTY_3": "Forma",
+      "__EMPTY_5": "Data",
+      "__EMPTY_6": "Descrição",
+      "__EMPTY_7": "Categoria",
+      "__EMPTY_8": "Valor",
+      "__EMPTY_9": "Forma",
+      "__EMPTY_11": "Data",
+      "__EMPTY_12": "Descrição",
+      "__EMPTY_13": "Categoria",
+      "__EMPTY_14": "Parcelas",
+      "__EMPTY_15": "Valor",
+      "__EMPTY_16": "Forma",
+      "__EMPTY_18": "Data",
+      "__EMPTY_19": "Categoria",
+      "__EMPTY_20": "Valor",
+      "__EMPTY_21": "Rendimentos",
+      "__EMPTY_22": "Prazo",
+      "__EMPTY_23": "Progreso",
+      "__EMPTY_24": "Meta"
+    },
+    {
+      "__EMPTY": "12/11",
+      "__EMPTY_1": "Salubritá",
+      "__EMPTY_2": 3527.91,
+      "__EMPTY_3": "Itaú",
+      "__EMPTY_5": 45949,
+      "__EMPTY_6": "WeMeds",
+      "__EMPTY_7": "Educação médica",
+      "__EMPTY_8": 34.99,
+      "__EMPTY_9": "Itaú",
+      "__EMPTY_11": 45751,
+      "__EMPTY_12": "Tênis André",
+      "__EMPTY_13": "Reembolsos",
+      "__EMPTY_14": "8/9",
+      "__EMPTY_15": 99.99,
+      "__EMPTY_16": "Nubank",
+      "__EMPTY_18": 45984,
+      "__EMPTY_19": "Reserva",
+      "__EMPTY_20": 400,
+      "__EMPTY_22": "-",
+      "__EMPTY_23": 0.016,
+      "__EMPTY_24": 25000
+    },
+    {
+      "__EMPTY": "13/11",
+      "__EMPTY_1": "Asmel",
+      "__EMPTY_2": 2184,
+      "__EMPTY_3": "Itaú",
+      "__EMPTY_5": 45955,
+      "__EMPTY_6": "Ta de Clinicagem",
+      "__EMPTY_7": "Educação médica",
+      "__EMPTY_8": 44.9,
+      "__EMPTY_9": "Itaú",
+      "__EMPTY_11": 45891,
+      "__EMPTY_12": "Autoescola",
+      "__EMPTY_13": "Educação médica",
+      "__EMPTY_14": "3/3",
+      "__EMPTY_15": 390.22,
+      "__EMPTY_16": "Itaú",
+      "__EMPTY_18": 45984,
+      "__EMPTY_19": "Móveis",
+      "__EMPTY_20": 500,
+      "__EMPTY_22": 46447,
+      "__EMPTY_23": 0.01,
+      "__EMPTY_24": 50000
+    },
+    {
+      "__EMPTY": "12/11",
+      "__EMPTY_1": "Aval",
+      "__EMPTY_2": 1500,
+      "__EMPTY_3": "Itaú",
+      "__EMPTY_5": 45956,
+      "__EMPTY_6": "Vivo Celular",
+      "__EMPTY_7": "Celular/tecnologia",
+      "__EMPTY_8": 85,
+      "__EMPTY_9": "Itaú",
+      "__EMPTY_11": 45905,
+      "__EMPTY_12": "Tênis Andrê",
+      "__EMPTY_13": "Reembolsos",
+      "__EMPTY_14": "3/9",
+      "__EMPTY_15": 100.07,
+      "__EMPTY_16": "Itaú",
+      "__EMPTY_18": 45984,
+      "__EMPTY_19": "Residência",
+      "__EMPTY_20": 2800,
+      "__EMPTY_22": 46023,
+      "__EMPTY_23": 0.4307692308,
+      "__EMPTY_24": 6500
+    },
+    {
+      "__EMPTY": "26/11",
+      "__EMPTY_1": "Aval",
+      "__EMPTY_2": 1766.66,
+      "__EMPTY_3": "Itaú",
+      "__EMPTY_5": 45964,
+      "__EMPTY_6": "Contabilidade",
+      "__EMPTY_7": "Contabilidade/impostos",
+      "__EMPTY_8": 282.4,
+      "__EMPTY_9": "Boleto",
+      "__EMPTY_11": 45905,
+      "__EMPTY_12": "Marisa",
+      "__EMPTY_13": "Roupas/acessórios",
+      "__EMPTY_14": "3/3",
+      "__EMPTY_15": 113.32,
+      "__EMPTY_16": "Itaú",
+      "__EMPTY_18": 45984,
+      "__EMPTY_19": "Viagem",
+      "__EMPTY_20": 550,
+      "__EMPTY_22": 45992,
+      "__EMPTY_23": 0.11,
+      "__EMPTY_24": 5000
+    },
+    {
+      "__EMPTY": "05/11",
+      "__EMPTY_1": "Reembolsos",
+      "__EMPTY_2": 300,
+      "__EMPTY_3": "Nubank",
+      "__EMPTY_5": 45965,
+      "__EMPTY_6": "Spotify",
+      "__EMPTY_7": "Lazer",
+      "__EMPTY_8": 15.95,
+      "__EMPTY_9": "Pix",
+      "__EMPTY_11": 45921,
+      "__EMPTY_12": "Principia",
+      "__EMPTY_13": "Bem-estar/Saúde",
+      "__EMPTY_14": "2/2",
+      "__EMPTY_15": 56.5,
+      "__EMPTY_16": "Itaú",
+      "__EMPTY_19": "Total",
+      "__EMPTY_20": 4250,
+      "__EMPTY_23": 0.04913294798,
+      "__EMPTY_24": 86500
+    },
+    {
+      "__EMPTY": "18/11",
+      "__EMPTY_1": "Rendimentos",
+      "__EMPTY_2": 2.69,
+      "__EMPTY_3": "Itaú",
+      "__EMPTY_5": 45966,
+      "__EMPTY_6": "Imposto de Renda PJ",
+      "__EMPTY_7": "Contabilidade/impostos",
+      "__EMPTY_8": 98.53,
+      "__EMPTY_9": "Boleto",
+      "__EMPTY_11": 45926,
+      "__EMPTY_12": "Riachuelo",
+      "__EMPTY_13": "Roupas/acessórios",
+      "__EMPTY_14": "2/3",
+      "__EMPTY_15": 106.66,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY": "18/11",
+      "__EMPTY_1": "Reembolsos",
+      "__EMPTY_2": 23.78,
+      "__EMPTY_3": "Itaú",
+      "__EMPTY_5": 45972,
+      "__EMPTY_6": "Canva Mãe",
+      "__EMPTY_7": "Reembolsos",
+      "__EMPTY_8": 34.9,
+      "__EMPTY_9": "Nubank",
+      "__EMPTY_11": 45926,
+      "__EMPTY_12": "Presente Mãe",
+      "__EMPTY_13": "Presentes",
+      "__EMPTY_14": "2/2",
+      "__EMPTY_15": 51.75,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_5": 45973,
+      "__EMPTY_6": "Manicure",
+      "__EMPTY_7": "Beleza",
+      "__EMPTY_8": 144.44,
+      "__EMPTY_9": "Itaú",
+      "__EMPTY_11": 45933,
+      "__EMPTY_12": "Vestido amarelo",
+      "__EMPTY_13": "Roupas/acessórios",
+      "__EMPTY_14": "2/2",
+      "__EMPTY_15": 100,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_5": 45973,
+      "__EMPTY_6": "Whitebook",
+      "__EMPTY_7": "Educação médica",
+      "__EMPTY_8": 69.9,
+      "__EMPTY_9": "Itaú",
+      "__EMPTY_11": 45937,
+      "__EMPTY_12": "Beco acessórios",
+      "__EMPTY_13": "Roupas/acessórios",
+      "__EMPTY_14": "2/2",
+      "__EMPTY_15": 40.5,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_5": 45975,
+      "__EMPTY_6": "Gympass",
+      "__EMPTY_7": "Bem-estar/Saúde",
+      "__EMPTY_8": 139.9,
+      "__EMPTY_9": "Itaú",
+      "__EMPTY_11": 45937,
+      "__EMPTY_12": "Acessórios Chinês",
+      "__EMPTY_13": "Roupas/acessórios",
+      "__EMPTY_14": "2/2",
+      "__EMPTY_15": 66,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_5": 45979,
+      "__EMPTY_6": "Google One",
+      "__EMPTY_7": "Celular/tecnologia",
+      "__EMPTY_8": 14.99,
+      "__EMPTY_9": "Itaú",
+      "__EMPTY_11": 45938,
+      "__EMPTY_12": "Natura",
+      "__EMPTY_13": "Beleza",
+      "__EMPTY_14": "2/2",
+      "__EMPTY_15": 62.4,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_1": "Total",
+      "__EMPTY_2": 9305.04,
+      "__EMPTY_5": 45975,
+      "__EMPTY_6": "Imposto PJ (DAS)",
+      "__EMPTY_7": "Contabilidade/impostos",
+      "__EMPTY_8": 191.95,
+      "__EMPTY_9": "Boleto",
+      "__EMPTY_11": 45940,
+      "__EMPTY_12": "Headphone",
+      "__EMPTY_13": "Lazer",
+      "__EMPTY_14": "2/2",
+      "__EMPTY_15": 75,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_1": "Salário mês",
+      "__EMPTY_2": 8978.57,
+      "__EMPTY_3": 0.9649147129,
+      "__EMPTY_6": "Total",
+      "__EMPTY_8": 1157.85,
+      "__EMPTY_11": 45946,
+      "__EMPTY_12": "Avião Bahia",
+      "__EMPTY_13": "Viagens",
+      "__EMPTY_14": "1/9",
+      "__EMPTY_15": 99.82,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45948,
+      "__EMPTY_12": "Xeque mate ",
+      "__EMPTY_13": "Eventos",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 20,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45949,
+      "__EMPTY_12": "Bar do Orlando",
+      "__EMPTY_13": "Eventos",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 56.1,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45949,
+      "__EMPTY_12": "Araújo lanche Enare",
+      "__EMPTY_13": "Alimentação",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 25.65,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45949,
+      "__EMPTY_12": "99 volta casa",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 26.95,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45949,
+      "__EMPTY_12": "99 Enare",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 22.05,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_6": "BALANÇO DO MÊS",
+      "__EMPTY_11": 45949,
+      "__EMPTY_12": "99 Bar do Orlando",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 15.9,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_7": "Valores",
+      "__EMPTY_8": "Meta",
+      "__EMPTY_11": 45949,
+      "__EMPTY_12": "Barrigudinha 1000ton",
+      "__EMPTY_13": "Eventos",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 12,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_6": "Saldo inicial",
+      "__EMPTY_7": 3273.46,
+      "__EMPTY_11": 45950,
+      "__EMPTY_12": "Acessórios Chinês",
+      "__EMPTY_13": "Roupas/acessórios",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 30,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_6": "Entradas ",
+      "__EMPTY_7": 9305.04,
+      "__EMPTY_11": 45951,
+      "__EMPTY_12": "Araújo shampoo",
+      "__EMPTY_13": "Bem-estar/Saúde",
+      "__EMPTY_14": 45689,
+      "__EMPTY_15": 58.52,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_6": "Fatura Itaú",
+      "__EMPTY_7": 4435.33,
+      "__EMPTY_11": 45951,
+      "__EMPTY_12": "Ingresso Mira!",
+      "__EMPTY_13": "Eventos",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 67.5,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_6": "Fatura NuBank",
+      "__EMPTY_11": 45951,
+      "__EMPTY_12": "BhBus",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 50,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_6": "Saídas",
+      "__EMPTY_7": 6698.61,
+      "__EMPTY_11": 45952,
+      "__EMPTY_12": "Câmera digital Kodak",
+      "__EMPTY_13": "Futilidades",
+      "__EMPTY_14": 45992,
+      "__EMPTY_15": 133.22,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_6": "Investidos",
+      "__EMPTY_7": 4250,
+      "__EMPTY_11": 45953,
+      "__EMPTY_12": "Uber Asmel",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 32.67,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_6": "Saldo do mês",
+      "__EMPTY_7": 1629.89,
+      "__EMPTY_11": 45953,
+      "__EMPTY_12": "Chicletes Asmel",
+      "__EMPTY_13": "Alimentação",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 3.5,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45954,
+      "__EMPTY_12": "Deck Boi na Brasa",
+      "__EMPTY_13": "Eventos",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 60,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45954,
+      "__EMPTY_12": "Uber Tuanny",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 17.93,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45955,
+      "__EMPTY_12": "99 Dona Margherita",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 26.25,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45955,
+      "__EMPTY_12": "Bebidas Mira!",
+      "__EMPTY_13": "Eventos",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 48,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45955,
+      "__EMPTY_12": "Bebidas Resenha da Naty",
+      "__EMPTY_13": "Eventos",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 36,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45955,
+      "__EMPTY_12": "99 Dona Margherita",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 19.3,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45955,
+      "__EMPTY_12": "Rodízio de Pizza",
+      "__EMPTY_13": "Eventos",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 93.28,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45955,
+      "__EMPTY_12": "Uber Aniver Otati",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 17.96,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45956,
+      "__EMPTY_12": "Almoço Sagradinha",
+      "__EMPTY_13": "Eventos",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 52,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45956,
+      "__EMPTY_12": "Sorvete Sagradinha",
+      "__EMPTY_13": "Eventos",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 12.56,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45956,
+      "__EMPTY_12": "99 almoço Sagradinha",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 13.2,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45958,
+      "__EMPTY_12": "Magnólia Restaurante",
+      "__EMPTY_13": "Eventos",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 63.28,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45958,
+      "__EMPTY_12": "Rocket Confeitaria",
+      "__EMPTY_13": "Eventos",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 18,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45958,
+      "__EMPTY_12": "99 Almoço Day",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 8.9,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45958,
+      "__EMPTY_12": "99 Volta Casa",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 18.6,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45959,
+      "__EMPTY_12": "99 Café Bahia",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 8.8,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45959,
+      "__EMPTY_12": "Almoço Café Bahia",
+      "__EMPTY_13": "Alimentação",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 28.49,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45959,
+      "__EMPTY_12": "99 Casa Milena",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 8.8,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45959,
+      "__EMPTY_12": "Mais Sabor",
+      "__EMPTY_13": "Eventos",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 35.2,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45961,
+      "__EMPTY_12": "Graal lanche",
+      "__EMPTY_13": "Alimentação",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 30,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45961,
+      "__EMPTY_12": "99 Aval-casa",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 19.6,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45961,
+      "__EMPTY_12": "99 Entrega Mala",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 32.9,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45962,
+      "__EMPTY_12": "Pão de queijo aeroporto",
+      "__EMPTY_13": "Alimentação",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 7,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45963,
+      "__EMPTY_12": "Cerveja SJC",
+      "__EMPTY_13": "Eventos",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 70,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45964,
+      "__EMPTY_12": "Graal lanche",
+      "__EMPTY_13": "Alimentação",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 47.5,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45964,
+      "__EMPTY_12": "Uber Expominas",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 21.94,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45964,
+      "__EMPTY_12": "99 Aval",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 19.5,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45965,
+      "__EMPTY_12": "Peixe Frito Mãe",
+      "__EMPTY_13": "Eventos",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 51.6,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45965,
+      "__EMPTY_12": "Sorvete Mãe",
+      "__EMPTY_13": "Eventos",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 20.58,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45965,
+      "__EMPTY_12": "99 Salubritá-casa",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 20.5,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45966,
+      "__EMPTY_12": "Concurso Contagem",
+      "__EMPTY_13": "Educação médica",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 100,
+      "__EMPTY_16": "Boleto"
+    },
+    {
+      "__EMPTY_11": 45966,
+      "__EMPTY_12": "Uber Salubritá-casa",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 24.95,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45966,
+      "__EMPTY_12": "Drogaria Pacheco",
+      "__EMPTY_13": "Bem-estar/Saúde",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 113.56,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45967,
+      "__EMPTY_12": "99 Asmel",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 35.89,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45967,
+      "__EMPTY_12": "Chicletes Asmel",
+      "__EMPTY_13": "Alimentação",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 3.5,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45971,
+      "__EMPTY_12": "Almoço Aval",
+      "__EMPTY_13": "Alimentação",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 27.79,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45971,
+      "__EMPTY_12": "99 Aval",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 11.5,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45971,
+      "__EMPTY_12": "Shein ano novo",
+      "__EMPTY_13": "Roupas/acessórios",
+      "__EMPTY_14": 45717,
+      "__EMPTY_15": 77.93,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45972,
+      "__EMPTY_12": "Presente Isadora",
+      "__EMPTY_13": "Presentes",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 139.86,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45972,
+      "__EMPTY_12": "Shein praia",
+      "__EMPTY_13": "Roupas/acessórios",
+      "__EMPTY_14": 45717,
+      "__EMPTY_15": 151.09,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45972,
+      "__EMPTY_12": "Bhbus",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 50,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45973,
+      "__EMPTY_12": "99 manicure",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 11.2,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45975,
+      "__EMPTY_12": "Almoço Milena",
+      "__EMPTY_13": "Alimentação",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 30,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45975,
+      "__EMPTY_12": "99 unimed",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 15.35,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45975,
+      "__EMPTY_12": "99 biopsia",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 12.3,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45975,
+      "__EMPTY_12": "99 milena",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 13,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45976,
+      "__EMPTY_12": "Uber árabe",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 31.17,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45977,
+      "__EMPTY_12": "99 noivado",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 23.45,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45978,
+      "__EMPTY_12": "Uber volta noivado",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 27.95,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45978,
+      "__EMPTY_12": "Uber Aval",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 9.94,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45978,
+      "__EMPTY_12": "99 centro",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 33.05,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45978,
+      "__EMPTY_12": "Araújo curativos",
+      "__EMPTY_13": "Bem-estar/Saúde",
+      "__EMPTY_14": 45689,
+      "__EMPTY_15": 118.41,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45978,
+      "__EMPTY_12": "Almoço Aval",
+      "__EMPTY_13": "Alimentação",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 58.82,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45979,
+      "__EMPTY_12": "Airbnb Bahia",
+      "__EMPTY_13": "Viagens",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 211.5,
+      "__EMPTY_16": "Pix"
+    },
+    {
+      "__EMPTY_11": 45980,
+      "__EMPTY_12": "Árabe e antartica",
+      "__EMPTY_13": "Eventos",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 46.5,
+      "__EMPTY_16": "Pix"
+    },
+    {
+      "__EMPTY_11": 45979,
+      "__EMPTY_12": "99 pop",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 17.85,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45986,
+      "__EMPTY_12": "Transfer Boipeba",
+      "__EMPTY_13": "Viagens",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 320,
+      "__EMPTY_16": "Pix"
+    },
+    {
+      "__EMPTY_11": 45989,
+      "__EMPTY_12": "Escrivaninha",
+      "__EMPTY_13": "Casa",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 861.56,
+      "__EMPTY_16": "Pix"
+    },
+    {
+      "__EMPTY_12": "Fatura",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 118.68,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_12": "Total",
+      "__EMPTY_15": 5540.76
+    },
+    {
+      "__EMPTY_11": "PARCELAS"
+    },
+    {
+      "__EMPTY_11": "Data",
+      "__EMPTY_12": "Descrição",
+      "__EMPTY_13": "Categoria",
+      "__EMPTY_14": "Parcelas",
+      "__EMPTY_15": "Valor",
+      "__EMPTY_16": "Forma"
+    },
+    {
+      "__EMPTY_11": 45751,
+      "__EMPTY_12": "Tênis André",
+      "__EMPTY_13": "Reembolsos",
+      "__EMPTY_14": "8/9",
+      "__EMPTY_15": 99.99,
+      "__EMPTY_16": "Nubank"
+    },
+    {
+      "__EMPTY_11": 45891,
+      "__EMPTY_12": "Autoescola",
+      "__EMPTY_13": "Educação médica",
+      "__EMPTY_14": "3/3",
+      "__EMPTY_15": 390.22,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45905,
+      "__EMPTY_12": "Tênis Andrê",
+      "__EMPTY_13": "Reembolsos",
+      "__EMPTY_14": "3/9",
+      "__EMPTY_15": 100.07,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45905,
+      "__EMPTY_12": "Marisa",
+      "__EMPTY_13": "Roupas/acessórios",
+      "__EMPTY_14": "3/3",
+      "__EMPTY_15": 113.32,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45921,
+      "__EMPTY_12": "Principia",
+      "__EMPTY_13": "Bem-estar/Saúde",
+      "__EMPTY_14": "2/2",
+      "__EMPTY_15": 56.5,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45926,
+      "__EMPTY_12": "Riachuelo",
+      "__EMPTY_13": "Roupas/acessórios",
+      "__EMPTY_14": "2/3",
+      "__EMPTY_15": 106.66,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45926,
+      "__EMPTY_12": "Presente Mãe",
+      "__EMPTY_13": "Presentes",
+      "__EMPTY_14": "2/2",
+      "__EMPTY_15": 51.75,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45933,
+      "__EMPTY_12": "Vestido amarelo",
+      "__EMPTY_13": "Roupas/acessórios",
+      "__EMPTY_14": "2/2",
+      "__EMPTY_15": 100,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45937,
+      "__EMPTY_12": "Beco acessórios",
+      "__EMPTY_13": "Roupas/acessórios",
+      "__EMPTY_14": "2/2",
+      "__EMPTY_15": 40.5,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45937,
+      "__EMPTY_12": "Acessórios Chinês",
+      "__EMPTY_13": "Roupas/acessórios",
+      "__EMPTY_14": "2/2",
+      "__EMPTY_15": 66,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45938,
+      "__EMPTY_12": "Natura",
+      "__EMPTY_13": "Beleza",
+      "__EMPTY_14": "2/2",
+      "__EMPTY_15": 62.4,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45940,
+      "__EMPTY_12": "Headphone",
+      "__EMPTY_13": "Lazer",
+      "__EMPTY_14": "2/2",
+      "__EMPTY_15": 75,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45946,
+      "__EMPTY_12": "Avião Bahia",
+      "__EMPTY_13": "Viagens",
+      "__EMPTY_14": "1/9",
+      "__EMPTY_15": 99.82,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45952,
+      "__EMPTY_12": "Câmera digital Kodak",
+      "__EMPTY_13": "Futilidades",
+      "__EMPTY_14": 45992,
+      "__EMPTY_15": 133.22,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45952,
+      "__EMPTY_12": "Araújo shampoo",
+      "__EMPTY_13": "Bem-estar/Saúde",
+      "__EMPTY_14": 45689,
+      "__EMPTY_15": 58.52,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45971,
+      "__EMPTY_12": "Shein ano novo",
+      "__EMPTY_13": "Roupas/acessórios",
+      "__EMPTY_14": 45717,
+      "__EMPTY_15": 77.93,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45972,
+      "__EMPTY_12": "Shein praia",
+      "__EMPTY_13": "Roupas/acessórios",
+      "__EMPTY_14": 45717,
+      "__EMPTY_15": 151.09,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45978,
+      "__EMPTY_12": "Araújo curativos",
+      "__EMPTY_13": "Bem-estar/Saúde",
+      "__EMPTY_14": 45689,
+      "__EMPTY_15": 118.41,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_12": "Total",
+      "__EMPTY_15": 1901.4
+    }
+  ],
+  "Dezembro": [
+    {
+      "__EMPTY_5": "Dezembro"
+    },
+    {
+      "__EMPTY": "ENTRADAS",
+      "__EMPTY_5": "GASTOS FIXOS",
+      "__EMPTY_11": "GASTOS VARIÁVEIS",
+      "__EMPTY_18": "COFRINHOS"
+    },
+    {
+      "__EMPTY": "Data",
+      "__EMPTY_1": "Descrição",
+      "__EMPTY_2": "Valor",
+      "__EMPTY_3": "Forma",
+      "__EMPTY_5": "Data",
+      "__EMPTY_6": "Descrição",
+      "__EMPTY_7": "Categoria",
+      "__EMPTY_8": "Valor",
+      "__EMPTY_9": "Forma",
+      "__EMPTY_11": "Data",
+      "__EMPTY_12": "Descrição",
+      "__EMPTY_13": "Categoria",
+      "__EMPTY_14": "Parcelas",
+      "__EMPTY_15": "Valor",
+      "__EMPTY_16": "Forma",
+      "__EMPTY_18": "Data",
+      "__EMPTY_19": "Categoria",
+      "__EMPTY_20": "Valor",
+      "__EMPTY_21": "Rendimentos",
+      "__EMPTY_22": "Prazo",
+      "__EMPTY_23": "Progreso",
+      "__EMPTY_24": "Meta"
+    },
+    {
+      "__EMPTY": "10/12",
+      "__EMPTY_1": "Aval",
+      "__EMPTY_2": 1486.66,
+      "__EMPTY_5": 45980,
+      "__EMPTY_6": "WeMeds",
+      "__EMPTY_7": "Educação médica",
+      "__EMPTY_8": 34.99,
+      "__EMPTY_9": "Itaú",
+      "__EMPTY_11": 45751,
+      "__EMPTY_12": "Tênis André",
+      "__EMPTY_13": "Presentes",
+      "__EMPTY_14": "9/9",
+      "__EMPTY_15": 99.99,
+      "__EMPTY_16": "Nubank"
+    },
+    {
+      "__EMPTY_1": "Salubritá",
+      "__EMPTY_2": 3410,
+      "__EMPTY_5": 45986,
+      "__EMPTY_6": "Ta de Clinicagem",
+      "__EMPTY_7": "Educação médica",
+      "__EMPTY_8": 44.9,
+      "__EMPTY_9": "Itaú",
+      "__EMPTY_11": 45905,
+      "__EMPTY_12": "Tênis Andrê",
+      "__EMPTY_13": "Reembolsos",
+      "__EMPTY_14": "4/9",
+      "__EMPTY_15": 100.07,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_1": "Aval",
+      "__EMPTY_2": 1840,
+      "__EMPTY_5": 45987,
+      "__EMPTY_6": "Vivo Celular",
+      "__EMPTY_7": "Celular/tecnologia",
+      "__EMPTY_8": 100,
+      "__EMPTY_9": "Itaú",
+      "__EMPTY_11": 45926,
+      "__EMPTY_12": "Riachuelo",
+      "__EMPTY_13": "Roupas/acessórios",
+      "__EMPTY_14": "3/3",
+      "__EMPTY_15": 106.66,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_1": "Asmel",
+      "__EMPTY_2": 2240,
+      "__EMPTY_6": "Contabilidade",
+      "__EMPTY_7": "Contabilidade/impostos",
+      "__EMPTY_8": 282.4,
+      "__EMPTY_9": "Boleto",
+      "__EMPTY_11": 45926,
+      "__EMPTY_12": "Riachuelo",
+      "__EMPTY_13": "Roupas/acessórios",
+      "__EMPTY_14": "3/3",
+      "__EMPTY_15": 106.66,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_5": 45995,
+      "__EMPTY_6": "Spotify",
+      "__EMPTY_7": "Lazer",
+      "__EMPTY_8": 15.95,
+      "__EMPTY_9": "Pix",
+      "__EMPTY_11": 45946,
+      "__EMPTY_12": "Avião Bahia",
+      "__EMPTY_13": "Viagens",
+      "__EMPTY_14": "2/9",
+      "__EMPTY_15": 99.82,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_6": "Imposto de Renda PJ",
+      "__EMPTY_7": "Contabilidade/impostos",
+      "__EMPTY_9": "Boleto",
+      "__EMPTY_11": 45952,
+      "__EMPTY_12": "Câmera digital Kodak",
+      "__EMPTY_13": "Futilidades",
+      "__EMPTY_14": "2/12",
+      "__EMPTY_15": 133.22,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_5": 46002,
+      "__EMPTY_6": "Canva Mãe",
+      "__EMPTY_7": "Reembolsos",
+      "__EMPTY_8": 34.9,
+      "__EMPTY_9": "Nubank",
+      "__EMPTY_11": 45952,
+      "__EMPTY_12": "Araújo shampoo",
+      "__EMPTY_13": "Bem-estar/Saúde",
+      "__EMPTY_14": "2/2",
+      "__EMPTY_15": 58.52,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_5": 46008,
+      "__EMPTY_6": "Manicure",
+      "__EMPTY_7": "Beleza",
+      "__EMPTY_8": 148.92,
+      "__EMPTY_9": "Itaú",
+      "__EMPTY_11": 45971,
+      "__EMPTY_12": "Shein ano novo",
+      "__EMPTY_13": "Roupas/acessórios",
+      "__EMPTY_14": "2/3",
+      "__EMPTY_15": 77.93,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_5": 46003,
+      "__EMPTY_6": "Whitebook",
+      "__EMPTY_7": "Educação médica",
+      "__EMPTY_8": 69.9,
+      "__EMPTY_9": "Itaú",
+      "__EMPTY_11": 45972,
+      "__EMPTY_12": "Shein praia",
+      "__EMPTY_13": "Roupas/acessórios",
+      "__EMPTY_14": "2/3",
+      "__EMPTY_15": 151.09,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_5": 46005,
+      "__EMPTY_6": "Gympass",
+      "__EMPTY_7": "Bem-estar/Saúde",
+      "__EMPTY_8": 139.9,
+      "__EMPTY_9": "Itaú",
+      "__EMPTY_11": 45978,
+      "__EMPTY_12": "Araújo curativos",
+      "__EMPTY_13": "Bem-estar/Saúde",
+      "__EMPTY_14": "2/2",
+      "__EMPTY_15": 118.41,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_5": 46009,
+      "__EMPTY_6": "Google One",
+      "__EMPTY_7": "Celular/tecnologia",
+      "__EMPTY_8": 14.99,
+      "__EMPTY_9": "Itaú",
+      "__EMPTY_11": 45980,
+      "__EMPTY_12": "99 Aval",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 9.9,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_1": "Total",
+      "__EMPTY_2": 8976.66,
+      "__EMPTY_5": 45994,
+      "__EMPTY_6": "Imposto de Renda PJ",
+      "__EMPTY_7": "Contabilidade/impostos",
+      "__EMPTY_8": 108.65,
+      "__EMPTY_9": "Boleto",
+      "__EMPTY_11": 45980,
+      "__EMPTY_12": "Almoço Aval",
+      "__EMPTY_13": "Alimentação",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 32.98,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_1": "Salário mês",
+      "__EMPTY_3": 0,
+      "__EMPTY_11": 45981,
+      "__EMPTY_12": "99 vó",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 12.2,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45981,
+      "__EMPTY_12": "Cerveja 1000ton",
+      "__EMPTY_13": "Eventos",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 73.25,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45981,
+      "__EMPTY_12": "Uber 1000ton",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 25.96,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45982,
+      "__EMPTY_12": "Uber 1000ton",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 41.99,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45982,
+      "__EMPTY_12": "Pao de queijo Aval",
+      "__EMPTY_13": "Alimentação",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 8,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45982,
+      "__EMPTY_12": "99 churras Isadora",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 13.8,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45982,
+      "__EMPTY_12": "Champanhe Isadora",
+      "__EMPTY_13": "Presentes",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 55,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45982,
+      "__EMPTY_12": "99 casa Isadora",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 26.8,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45982,
+      "__EMPTY_12": "99 Porks",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 18.15,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45984,
+      "__EMPTY_12": "Araújo",
+      "__EMPTY_13": "Bem-estar/Saúde",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 25.28,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45985,
+      "__EMPTY_12": "Americanas doces",
+      "__EMPTY_13": "Futilidades",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 35.97,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45985,
+      "__EMPTY_12": "99 Aval",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 19.6,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45985,
+      "__EMPTY_12": "Dentista",
+      "__EMPTY_13": "Bem-estar/Saúde",
+      "__EMPTY_14": 45689,
+      "__EMPTY_15": 75,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45985,
+      "__EMPTY_12": "Dentista André",
+      "__EMPTY_13": "Reembolsos",
+      "__EMPTY_14": 45689,
+      "__EMPTY_15": 75,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45985,
+      "__EMPTY_12": "Medway",
+      "__EMPTY_13": "Educação médica",
+      "__EMPTY_14": 45992,
+      "__EMPTY_15": 1035.39,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45986,
+      "__EMPTY_12": "Almoço Salubritá",
+      "__EMPTY_13": "Alimentação",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 40.55,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45986,
+      "__EMPTY_12": "Shampoo Ápice",
+      "__EMPTY_13": "Beleza",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 67.73,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45986,
+      "__EMPTY_12": "99 Unimed Vó",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 13.3,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45986,
+      "__EMPTY_12": "99 Casa Vó",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 32.2,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45986,
+      "__EMPTY_12": "Clareamento André",
+      "__EMPTY_13": "Reembolsos",
+      "__EMPTY_14": 45992,
+      "__EMPTY_15": 91.74,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45987,
+      "__EMPTY_12": "99 Salubritá",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 22.2,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45988,
+      "__EMPTY_12": "Chicletes Asmel",
+      "__EMPTY_13": "Alimentação",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 3.5,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45988,
+      "__EMPTY_12": "99 Asmel",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 21.95,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45989,
+      "__EMPTY_12": "Cama box",
+      "__EMPTY_13": "Casa",
+      "__EMPTY_14": 45992,
+      "__EMPTY_15": 286.49,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_1": "BALANÇO DO MÊS",
+      "__EMPTY_11": 45989,
+      "__EMPTY_12": "Lente de contato",
+      "__EMPTY_13": "Bem-estar/Saúde",
+      "__EMPTY_14": 45717,
+      "__EMPTY_15": 90.92,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_2": "Valores",
+      "__EMPTY_3": "Meta",
+      "__EMPTY_11": 45990,
+      "__EMPTY_12": "Ali ba bar",
+      "__EMPTY_13": "Eventos",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 69.19,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_1": "Saldo inicial",
+      "__EMPTY_11": 45990,
+      "__EMPTY_12": "99 ali ba bar",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 25.93,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_1": "Entradas ",
+      "__EMPTY_2": 8976.66,
+      "__EMPTY_11": 45991,
+      "__EMPTY_12": "Chopp da praça",
+      "__EMPTY_13": "Eventos",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 45.45,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_1": "Fatura Itaú",
+      "__EMPTY_2": 4607.17,
+      "__EMPTY_11": 45991,
+      "__EMPTY_12": "Bebidas Forno da sdds",
+      "__EMPTY_13": "Eventos",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 38,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_1": "Fatura NuBank",
+      "__EMPTY_11": 45991,
+      "__EMPTY_12": "Bebidas Quintal Jabú",
+      "__EMPTY_13": "Eventos",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 36,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_1": "Saídas",
+      "__EMPTY_2": 5196.89,
+      "__EMPTY_11": 45991,
+      "__EMPTY_12": "99 Quintal Jabú",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 51.05,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_1": "Investidos",
+      "__EMPTY_2": 0,
+      "__EMPTY_11": 45992,
+      "__EMPTY_12": "Almoço Aval",
+      "__EMPTY_13": "Alimentação",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 29,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_1": "Saldo do mês",
+      "__EMPTY_2": 3779.77,
+      "__EMPTY_11": 45992,
+      "__EMPTY_12": "Show Seu Jorge",
+      "__EMPTY_13": "Eventos",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 276,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45993,
+      "__EMPTY_12": "99 Salubritá",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 20.9,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45994,
+      "__EMPTY_12": "Sushi Delrey",
+      "__EMPTY_13": "Alimentação",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 55.71,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45994,
+      "__EMPTY_12": "99 Delrey",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 19,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45994,
+      "__EMPTY_12": "99 Delrey",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 16.1,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45995,
+      "__EMPTY_12": "Presente amigo oculto",
+      "__EMPTY_13": "Presentes",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 64.98,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45995,
+      "__EMPTY_12": "Lanche Asmel",
+      "__EMPTY_13": "Alimentação",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 7,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45995,
+      "__EMPTY_12": "99 Asmel",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 22.1,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45995,
+      "__EMPTY_12": "Renner",
+      "__EMPTY_13": "Roupas/acessórios",
+      "__EMPTY_14": 45748,
+      "__EMPTY_15": 69.93,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45992,
+      "__EMPTY_12": "Uber Marques",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 47.83,
+      "__EMPTY_16": "Pix"
+    },
+    {
+      "__EMPTY_6": "Total",
+      "__EMPTY_8": 995.5,
+      "__EMPTY_12": "Total",
+      "__EMPTY_15": 4201.39,
+      "__EMPTY_19": "Total",
+      "__EMPTY_20": 0,
+      "__EMPTY_23": "#DIV/0!",
+      "__EMPTY_24": 0
+    },
+    {
+      "__EMPTY_11": "PARCELAS"
+    },
+    {
+      "__EMPTY_11": "Data",
+      "__EMPTY_12": "Descrição",
+      "__EMPTY_13": "Categoria",
+      "__EMPTY_14": "Parcelas",
+      "__EMPTY_15": "Valor",
+      "__EMPTY_16": "Forma"
+    },
+    {
+      "__EMPTY_11": 45751,
+      "__EMPTY_12": "Tênis André",
+      "__EMPTY_13": "Reembolsos",
+      "__EMPTY_14": "9/9",
+      "__EMPTY_15": 99.99,
+      "__EMPTY_16": "Nubank"
+    },
+    {
+      "__EMPTY_11": 45905,
+      "__EMPTY_12": "Tênis Andrê",
+      "__EMPTY_13": "Reembolsos",
+      "__EMPTY_14": "4/9",
+      "__EMPTY_15": 100.07,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45926,
+      "__EMPTY_12": "Riachuelo",
+      "__EMPTY_13": "Roupas/acessórios",
+      "__EMPTY_14": "3/3",
+      "__EMPTY_15": 106.66,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45926,
+      "__EMPTY_12": "Riachuelo",
+      "__EMPTY_13": "Roupas/acessórios",
+      "__EMPTY_14": "3/3",
+      "__EMPTY_15": 106.66,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45946,
+      "__EMPTY_12": "Avião Bahia",
+      "__EMPTY_13": "Viagens",
+      "__EMPTY_14": "2/9",
+      "__EMPTY_15": 99.82,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45952,
+      "__EMPTY_12": "Câmera digital Kodak",
+      "__EMPTY_13": "Futilidades",
+      "__EMPTY_14": "2/12",
+      "__EMPTY_15": 133.22,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45952,
+      "__EMPTY_12": "Araújo shampoo",
+      "__EMPTY_13": "Bem-estar/Saúde",
+      "__EMPTY_14": "2/2",
+      "__EMPTY_15": 58.52,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45971,
+      "__EMPTY_12": "Shein ano novo",
+      "__EMPTY_13": "Roupas/acessórios",
+      "__EMPTY_14": "2/3",
+      "__EMPTY_15": 77.93,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45972,
+      "__EMPTY_12": "Shein praia",
+      "__EMPTY_13": "Roupas/acessórios",
+      "__EMPTY_14": "2/3",
+      "__EMPTY_15": 151.09,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45978,
+      "__EMPTY_12": "Araújo curativos",
+      "__EMPTY_13": "Bem-estar/Saúde",
+      "__EMPTY_14": "2/2",
+      "__EMPTY_15": 118.41,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_12": "Total",
+      "__EMPTY_15": 1052.37
+    }
+  ],
+  "Cópia de Dezembro": [
+    {
+      "__EMPTY_5": "Dezembro"
+    },
+    {
+      "__EMPTY": "ENTRADAS",
+      "__EMPTY_5": "GASTOS FIXOS",
+      "__EMPTY_11": "GASTOS VARIÁVEIS",
+      "__EMPTY_18": "COFRINHOS"
+    },
+    {
+      "__EMPTY": "Data",
+      "__EMPTY_1": "Descrição",
+      "__EMPTY_2": "Valor",
+      "__EMPTY_3": "Forma",
+      "__EMPTY_5": "Data",
+      "__EMPTY_6": "Descrição",
+      "__EMPTY_7": "Categoria",
+      "__EMPTY_8": "Valor",
+      "__EMPTY_9": "Forma",
+      "__EMPTY_11": "Data",
+      "__EMPTY_12": "Descrição",
+      "__EMPTY_13": "Categoria",
+      "__EMPTY_14": "Parcelas",
+      "__EMPTY_15": "Valor",
+      "__EMPTY_16": "Forma",
+      "__EMPTY_18": "Data",
+      "__EMPTY_19": "Categoria",
+      "__EMPTY_20": "Valor",
+      "__EMPTY_21": "Rendimentos",
+      "__EMPTY_22": "Prazo",
+      "__EMPTY_23": "Progreso",
+      "__EMPTY_24": "Meta"
+    },
+    {
+      "__EMPTY": "10/12",
+      "__EMPTY_1": "Aval",
+      "__EMPTY_2": 1486.66,
+      "__EMPTY_5": 45980,
+      "__EMPTY_6": "WeMeds",
+      "__EMPTY_7": "Educação médica",
+      "__EMPTY_8": 34.99,
+      "__EMPTY_9": "Itaú",
+      "__EMPTY_11": 45751,
+      "__EMPTY_12": "Tênis André",
+      "__EMPTY_13": "Presentes",
+      "__EMPTY_14": "9/9",
+      "__EMPTY_15": 99.99,
+      "__EMPTY_16": "Nubank"
+    },
+    {
+      "__EMPTY_1": "Salubritá",
+      "__EMPTY_2": 3410,
+      "__EMPTY_5": 45986,
+      "__EMPTY_6": "Ta de Clinicagem",
+      "__EMPTY_7": "Educação médica",
+      "__EMPTY_8": 44.9,
+      "__EMPTY_9": "Itaú",
+      "__EMPTY_11": 45905,
+      "__EMPTY_12": "Tênis Andrê",
+      "__EMPTY_13": "Reembolsos",
+      "__EMPTY_14": "4/9",
+      "__EMPTY_15": 100.07,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_1": "Aval",
+      "__EMPTY_2": 1840,
+      "__EMPTY_5": 45987,
+      "__EMPTY_6": "Vivo Celular",
+      "__EMPTY_7": "Celular/tecnologia",
+      "__EMPTY_8": 100,
+      "__EMPTY_9": "Itaú",
+      "__EMPTY_11": 45926,
+      "__EMPTY_12": "Riachuelo",
+      "__EMPTY_13": "Roupas/acessórios",
+      "__EMPTY_14": "3/3",
+      "__EMPTY_15": 106.66,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_1": "Asmel",
+      "__EMPTY_2": 2240,
+      "__EMPTY_6": "Contabilidade",
+      "__EMPTY_7": "Contabilidade/impostos",
+      "__EMPTY_8": 282.4,
+      "__EMPTY_9": "Boleto",
+      "__EMPTY_11": 45926,
+      "__EMPTY_12": "Riachuelo",
+      "__EMPTY_13": "Roupas/acessórios",
+      "__EMPTY_14": "3/3",
+      "__EMPTY_15": 106.66,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_5": 45995,
+      "__EMPTY_6": "Spotify",
+      "__EMPTY_7": "Lazer",
+      "__EMPTY_8": 15.95,
+      "__EMPTY_9": "Pix",
+      "__EMPTY_11": 45946,
+      "__EMPTY_12": "Avião Bahia",
+      "__EMPTY_13": "Viagens",
+      "__EMPTY_14": "2/9",
+      "__EMPTY_15": 99.82,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_6": "Imposto de Renda PJ",
+      "__EMPTY_7": "Contabilidade/impostos",
+      "__EMPTY_9": "Boleto",
+      "__EMPTY_11": 45952,
+      "__EMPTY_12": "Câmera digital Kodak",
+      "__EMPTY_13": "Futilidades",
+      "__EMPTY_14": "2/12",
+      "__EMPTY_15": 133.22,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_5": 46002,
+      "__EMPTY_6": "Canva Mãe",
+      "__EMPTY_7": "Reembolsos",
+      "__EMPTY_8": 34.9,
+      "__EMPTY_9": "Nubank",
+      "__EMPTY_11": 45952,
+      "__EMPTY_12": "Araújo shampoo",
+      "__EMPTY_13": "Bem-estar/Saúde",
+      "__EMPTY_14": "2/2",
+      "__EMPTY_15": 58.52,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_5": 46008,
+      "__EMPTY_6": "Manicure",
+      "__EMPTY_7": "Beleza",
+      "__EMPTY_8": 148.92,
+      "__EMPTY_9": "Itaú",
+      "__EMPTY_11": 45971,
+      "__EMPTY_12": "Shein ano novo",
+      "__EMPTY_13": "Roupas/acessórios",
+      "__EMPTY_14": "2/3",
+      "__EMPTY_15": 77.93,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_5": 46003,
+      "__EMPTY_6": "Whitebook",
+      "__EMPTY_7": "Educação médica",
+      "__EMPTY_8": 69.9,
+      "__EMPTY_9": "Itaú",
+      "__EMPTY_11": 45972,
+      "__EMPTY_12": "Shein praia",
+      "__EMPTY_13": "Roupas/acessórios",
+      "__EMPTY_14": "2/3",
+      "__EMPTY_15": 151.09,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_5": 46005,
+      "__EMPTY_6": "Gympass",
+      "__EMPTY_7": "Bem-estar/Saúde",
+      "__EMPTY_8": 139.9,
+      "__EMPTY_9": "Itaú",
+      "__EMPTY_11": 45978,
+      "__EMPTY_12": "Araújo curativos",
+      "__EMPTY_13": "Bem-estar/Saúde",
+      "__EMPTY_14": "2/2",
+      "__EMPTY_15": 118.41,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_5": 46009,
+      "__EMPTY_6": "Google One",
+      "__EMPTY_7": "Celular/tecnologia",
+      "__EMPTY_8": 14.99,
+      "__EMPTY_9": "Itaú",
+      "__EMPTY_11": 45980,
+      "__EMPTY_12": "99 Aval",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 9.9,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_1": "Total",
+      "__EMPTY_2": 8976.66,
+      "__EMPTY_5": 45994,
+      "__EMPTY_6": "Imposto de Renda PJ",
+      "__EMPTY_7": "Contabilidade/impostos",
+      "__EMPTY_8": 108.65,
+      "__EMPTY_9": "Boleto",
+      "__EMPTY_11": 45980,
+      "__EMPTY_12": "Almoço Aval",
+      "__EMPTY_13": "Alimentação",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 32.98,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_1": "Salário mês",
+      "__EMPTY_3": 0,
+      "__EMPTY_11": 45981,
+      "__EMPTY_12": "99 vó",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 12.2,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45981,
+      "__EMPTY_12": "Cerveja 1000ton",
+      "__EMPTY_13": "Eventos",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 73.25,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45981,
+      "__EMPTY_12": "Uber 1000ton",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 25.96,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45982,
+      "__EMPTY_12": "Uber 1000ton",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 41.99,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45982,
+      "__EMPTY_12": "Pao de queijo Aval",
+      "__EMPTY_13": "Alimentação",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 8,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45982,
+      "__EMPTY_12": "99 churras Isadora",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 13.8,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45982,
+      "__EMPTY_12": "Champanhe Isadora",
+      "__EMPTY_13": "Presentes",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 55,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45982,
+      "__EMPTY_12": "99 casa Isadora",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 26.8,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45982,
+      "__EMPTY_12": "99 Porks",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 18.15,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45984,
+      "__EMPTY_12": "Araújo",
+      "__EMPTY_13": "Bem-estar/Saúde",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 25.28,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45985,
+      "__EMPTY_12": "Americanas doces",
+      "__EMPTY_13": "Futilidades",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 35.97,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45985,
+      "__EMPTY_12": "99 Aval",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 19.6,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45985,
+      "__EMPTY_12": "Dentista",
+      "__EMPTY_13": "Bem-estar/Saúde",
+      "__EMPTY_14": 45689,
+      "__EMPTY_15": 75,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45985,
+      "__EMPTY_12": "Dentista André",
+      "__EMPTY_13": "Reembolsos",
+      "__EMPTY_14": 45689,
+      "__EMPTY_15": 75,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45985,
+      "__EMPTY_12": "Medway",
+      "__EMPTY_13": "Educação médica",
+      "__EMPTY_14": 45992,
+      "__EMPTY_15": 1035.39,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45986,
+      "__EMPTY_12": "Almoço Salubritá",
+      "__EMPTY_13": "Alimentação",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 40.55,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45986,
+      "__EMPTY_12": "Shampoo Ápice",
+      "__EMPTY_13": "Beleza",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 67.73,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45986,
+      "__EMPTY_12": "99 Unimed Vó",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 13.3,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45986,
+      "__EMPTY_12": "99 Casa Vó",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 32.2,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45986,
+      "__EMPTY_12": "Clareamento André",
+      "__EMPTY_13": "Reembolsos",
+      "__EMPTY_14": 45992,
+      "__EMPTY_15": 91.74,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45987,
+      "__EMPTY_12": "99 Salubritá",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 22.2,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45988,
+      "__EMPTY_12": "Chicletes Asmel",
+      "__EMPTY_13": "Alimentação",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 3.5,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45988,
+      "__EMPTY_12": "99 Asmel",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 21.95,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45989,
+      "__EMPTY_12": "Cama box",
+      "__EMPTY_13": "Casa",
+      "__EMPTY_14": 45992,
+      "__EMPTY_15": 286.49,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_1": "BALANÇO DO MÊS",
+      "__EMPTY_11": 45989,
+      "__EMPTY_12": "Lente de contato",
+      "__EMPTY_13": "Bem-estar/Saúde",
+      "__EMPTY_14": 45717,
+      "__EMPTY_15": 90.92,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_2": "Valores",
+      "__EMPTY_3": "Meta",
+      "__EMPTY_11": 45990,
+      "__EMPTY_12": "Ali ba bar",
+      "__EMPTY_13": "Eventos",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 69.19,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_1": "Saldo inicial",
+      "__EMPTY_11": 45990,
+      "__EMPTY_12": "99 ali ba bar",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 25.93,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_1": "Entradas ",
+      "__EMPTY_2": 8976.66,
+      "__EMPTY_11": 45991,
+      "__EMPTY_12": "Chopp da praça",
+      "__EMPTY_13": "Eventos",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 45.45,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_1": "Fatura Itaú",
+      "__EMPTY_2": 4607.17,
+      "__EMPTY_11": 45991,
+      "__EMPTY_12": "Bebidas Forno da sdds",
+      "__EMPTY_13": "Eventos",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 38,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_1": "Fatura NuBank",
+      "__EMPTY_11": 45991,
+      "__EMPTY_12": "Bebidas Quintal Jabú",
+      "__EMPTY_13": "Eventos",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 36,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_1": "Saídas",
+      "__EMPTY_2": 5196.89,
+      "__EMPTY_11": 45991,
+      "__EMPTY_12": "99 Quintal Jabú",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 51.05,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_1": "Investidos",
+      "__EMPTY_2": 0,
+      "__EMPTY_11": 45992,
+      "__EMPTY_12": "Almoço Aval",
+      "__EMPTY_13": "Alimentação",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 29,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_1": "Saldo do mês",
+      "__EMPTY_2": 3779.77,
+      "__EMPTY_11": 45992,
+      "__EMPTY_12": "Show Seu Jorge",
+      "__EMPTY_13": "Eventos",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 276,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45993,
+      "__EMPTY_12": "99 Salubritá",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 20.9,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45994,
+      "__EMPTY_12": "Sushi Delrey",
+      "__EMPTY_13": "Alimentação",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 55.71,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45994,
+      "__EMPTY_12": "99 Delrey",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 19,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45994,
+      "__EMPTY_12": "99 Delrey",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 16.1,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45995,
+      "__EMPTY_12": "Presente amigo oculto",
+      "__EMPTY_13": "Presentes",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 64.98,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45995,
+      "__EMPTY_12": "Lanche Asmel",
+      "__EMPTY_13": "Alimentação",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 7,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45995,
+      "__EMPTY_12": "99 Asmel",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 22.1,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45995,
+      "__EMPTY_12": "Renner",
+      "__EMPTY_13": "Roupas/acessórios",
+      "__EMPTY_14": 45748,
+      "__EMPTY_15": 69.93,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45992,
+      "__EMPTY_12": "Uber Marques",
+      "__EMPTY_13": "Transporte",
+      "__EMPTY_14": "-",
+      "__EMPTY_15": 47.83,
+      "__EMPTY_16": "Pix"
+    },
+    {
+      "__EMPTY_6": "Total",
+      "__EMPTY_8": 995.5,
+      "__EMPTY_12": "Total",
+      "__EMPTY_15": 4201.39,
+      "__EMPTY_19": "Total",
+      "__EMPTY_20": 0,
+      "__EMPTY_23": "#DIV/0!",
+      "__EMPTY_24": 0
+    },
+    {
+      "__EMPTY_11": "PARCELAS"
+    },
+    {
+      "__EMPTY_11": "Data",
+      "__EMPTY_12": "Descrição",
+      "__EMPTY_13": "Categoria",
+      "__EMPTY_14": "Parcelas",
+      "__EMPTY_15": "Valor",
+      "__EMPTY_16": "Forma"
+    },
+    {
+      "__EMPTY_11": 45751,
+      "__EMPTY_12": "Tênis André",
+      "__EMPTY_13": "Reembolsos",
+      "__EMPTY_14": "9/9",
+      "__EMPTY_15": 99.99,
+      "__EMPTY_16": "Nubank"
+    },
+    {
+      "__EMPTY_11": 45905,
+      "__EMPTY_12": "Tênis Andrê",
+      "__EMPTY_13": "Reembolsos",
+      "__EMPTY_14": "4/9",
+      "__EMPTY_15": 100.07,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45926,
+      "__EMPTY_12": "Riachuelo",
+      "__EMPTY_13": "Roupas/acessórios",
+      "__EMPTY_14": "3/3",
+      "__EMPTY_15": 106.66,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45926,
+      "__EMPTY_12": "Riachuelo",
+      "__EMPTY_13": "Roupas/acessórios",
+      "__EMPTY_14": "3/3",
+      "__EMPTY_15": 106.66,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45946,
+      "__EMPTY_12": "Avião Bahia",
+      "__EMPTY_13": "Viagens",
+      "__EMPTY_14": "2/9",
+      "__EMPTY_15": 99.82,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45952,
+      "__EMPTY_12": "Câmera digital Kodak",
+      "__EMPTY_13": "Futilidades",
+      "__EMPTY_14": "2/12",
+      "__EMPTY_15": 133.22,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45952,
+      "__EMPTY_12": "Araújo shampoo",
+      "__EMPTY_13": "Bem-estar/Saúde",
+      "__EMPTY_14": "2/2",
+      "__EMPTY_15": 58.52,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45971,
+      "__EMPTY_12": "Shein ano novo",
+      "__EMPTY_13": "Roupas/acessórios",
+      "__EMPTY_14": "2/3",
+      "__EMPTY_15": 77.93,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45972,
+      "__EMPTY_12": "Shein praia",
+      "__EMPTY_13": "Roupas/acessórios",
+      "__EMPTY_14": "2/3",
+      "__EMPTY_15": 151.09,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_11": 45978,
+      "__EMPTY_12": "Araújo curativos",
+      "__EMPTY_13": "Bem-estar/Saúde",
+      "__EMPTY_14": "2/2",
+      "__EMPTY_15": 118.41,
+      "__EMPTY_16": "Itaú"
+    },
+    {
+      "__EMPTY_12": "Total",
+      "__EMPTY_15": 1052.37
+    }
+  ],
+  "Painel Geral": [
+    {
+      "__EMPTY_10": "OUT",
+      "__EMPTY_11": "NOV",
+      "__EMPTY_12": "DEZ"
+    },
+    {
+      "__EMPTY_9": "ENTRADAS",
+      "__EMPTY_10": 7343.51,
+      "__EMPTY_11": 9305.04,
+      "__EMPTY_12": 8976.66
+    },
+    {
+      "__EMPTY_9": "SAÍDAS",
+      "__EMPTY_10": 5968.24,
+      "__EMPTY_11": 6698.61,
+      "__EMPTY_12": 5196.89
+    },
+    {
+      "__EMPTY_9": "INVESTIDO",
+      "__EMPTY_10": 15200,
+      "__EMPTY_11": 4250,
+      "__EMPTY_12": 0
+    },
+    {
+      "__EMPTY_9": "SALDO",
+      "__EMPTY_10": 3087.31,
+      "__EMPTY_11": 1629.89,
+      "__EMPTY_12": 3779.77
+    },
+    {
+      "__EMPTY_10": "SALÁRIO MIN",
+      "__EMPTY_11": 6880
+    },
+    {
+      "__EMPTY_10": "GASTOS MÁX",
+      "__EMPTY_11": 3440
+    },
+    {
+      "__EMPTY_10": "INVEST MIN",
+      "__EMPTY_11": 3440
+    }
+  ],
+  "Whish list": [
+    {
+      "__EMPTY": "Whish List 2025"
+    },
+    {
+      "__EMPTY_1": "Valor",
+      "__EMPTY_2": "Prioridade",
+      "__EMPTY_3": "Prazo",
+      "__EMPTY_4": "Data",
+      "__EMPTY_5": "Comprado"
+    },
+    {
+      "__EMPTY": "Mala de viagem",
+      "__EMPTY_2": "Baixa",
+      "__EMPTY_3": "-",
+      "__EMPTY_4": "-",
+      "__EMPTY_5": false
+    },
+    {
+      "__EMPTY": "Silicone",
+      "__EMPTY_1": 30000,
+      "__EMPTY_2": "Média",
+      "__EMPTY_3": "-",
+      "__EMPTY_4": "-",
+      "__EMPTY_5": false
+    },
+    {
+      "__EMPTY": "Calcinhas",
+      "__EMPTY_2": "Alta",
+      "__EMPTY_3": "-",
+      "__EMPTY_4": "-",
+      "__EMPTY_5": false
+    },
+    {
+      "__EMPTY": "Roupas de trabalhar",
+      "__EMPTY_1": 300,
+      "__EMPTY_2": "Alta",
+      "__EMPTY_3": "-",
+      "__EMPTY_4": "-",
+      "__EMPTY_5": false
+    },
+    {
+      "__EMPTY": "Roupas de academia",
+      "__EMPTY_1": 700,
+      "__EMPTY_2": "Média",
+      "__EMPTY_3": "-",
+      "__EMPTY_4": "-",
+      "__EMPTY_5": false
+    },
+    {
+      "__EMPTY": "Cadeira escritório",
+      "__EMPTY_1": 600,
+      "__EMPTY_2": "Alta",
+      "__EMPTY_3": "-",
+      "__EMPTY_4": "-",
+      "__EMPTY_5": false
+    },
+    {
+      "__EMPTY": "TV",
+      "__EMPTY_1": 2000,
+      "__EMPTY_2": "Baixa",
+      "__EMPTY_3": "-",
+      "__EMPTY_4": "-",
+      "__EMPTY_5": false
+    },
+    {
+      "__EMPTY": "Bota meia pata",
+      "__EMPTY_1": 250,
+      "__EMPTY_2": "Baixa",
+      "__EMPTY_3": "-",
+      "__EMPTY_4": "-",
+      "__EMPTY_5": false
+    },
+    {
+      "__EMPTY": "Regatas Miso",
+      "__EMPTY_1": 150,
+      "__EMPTY_2": "Baixa",
+      "__EMPTY_3": "-",
+      "__EMPTY_4": "-",
+      "__EMPTY_5": false
+    },
+    {
+      "__EMPTY": "Cartão de memória ",
+      "__EMPTY_1": 45,
+      "__EMPTY_2": "Média",
+      "__EMPTY_3": 46020,
+      "__EMPTY_4": "-",
+      "__EMPTY_5": true
+    },
+    {
+      "__EMPTY": "Cursinho R1",
+      "__EMPTY_1": 12000,
+      "__EMPTY_2": "Alta",
+      "__EMPTY_5": true
+    },
+    {
+      "__EMPTY": "Cama Box",
+      "__EMPTY_1": 4200,
+      "__EMPTY_2": "Média",
+      "__EMPTY_3": "-",
+      "__EMPTY_4": "-",
+      "__EMPTY_5": true
+    },
+    {
+      "__EMPTY": "Escrivaninha",
+      "__EMPTY_1": 1000,
+      "__EMPTY_2": "Alta",
+      "__EMPTY_3": "-",
+      "__EMPTY_4": "-",
+      "__EMPTY_5": true
+    },
+    {
+      "__EMPTY": "Roupas Shein",
+      "__EMPTY_1": 900,
+      "__EMPTY_2": "Média",
+      "__EMPTY_3": 46020,
+      "__EMPTY_4": "-",
+      "__EMPTY_5": true
+    },
+    {
+      "__EMPTY": "Camera digital ",
+      "__EMPTY_1": 1598.64,
+      "__EMPTY_2": "Baixa",
+      "__EMPTY_3": 46020,
+      "__EMPTY_4": 45952,
+      "__EMPTY_5": true
+    },
+    {
+      "__EMPTY": "Total",
+      "__EMPTY_1": 52145
+    }
+  ],
+  "Cofrinhos": [
+    {
+      "__EMPTY_3": "Cofrinhos"
+    },
+    {
+      "__EMPTY_8": "GUARDADO",
+      "__EMPTY_9": 19685.75
+    },
+    {
+      "__EMPTY_8": "META",
+      "__EMPTY_9": 116500
+    },
+    {
+      "__EMPTY_8": "PROGRESSO",
+      "__EMPTY_9": 0.1689763948
+    },
+    {
+      "__EMPTY_2": "OUT",
+      "__EMPTY_3": "NOV",
+      "__EMPTY_4": "DEZ",
+      "__EMPTY_5": "JAN",
+      "__EMPTY_6": "FEV",
+      "__EMPTY_7": "MAR",
+      "__EMPTY_8": "ABR",
+      "__EMPTY_9": "MAIO",
+      "__EMPTY_10": "JUN",
+      "__EMPTY_11": "JUL",
+      "__EMPTY_12": "AGOS",
+      "__EMPTY_13": "SET"
+    },
+    {
+      "__EMPTY": "RESIDÊNCIA",
+      "__EMPTY_1": "ENTRADAS",
+      "__EMPTY_2": 3200,
+      "__EMPTY_3": 2800
+    },
+    {
+      "__EMPTY_1": "SAÍDAS",
+      "__EMPTY_2": "-",
+      "__EMPTY_3": "-"
+    },
+    {
+      "__EMPTY_1": "RENDIMENTOS",
+      "__EMPTY_3": 52.56
+    },
+    {
+      "__EMPTY_1": "META MENSAL",
+      "__EMPTY_2": 3000,
+      "__EMPTY_3": 3000,
+      "__EMPTY_4": 3000,
+      "__EMPTY_5": 3000,
+      "__EMPTY_6": 3000,
+      "__EMPTY_7": 3000,
+      "__EMPTY_8": 3000,
+      "__EMPTY_9": 3000,
+      "__EMPTY_10": 3000,
+      "__EMPTY_11": 3000,
+      "__EMPTY_12": 3000,
+      "__EMPTY_13": 3000
+    },
+    {
+      "__EMPTY_2": true,
+      "__EMPTY_3": true,
+      "__EMPTY_4": false,
+      "__EMPTY_5": false,
+      "__EMPTY_6": false,
+      "__EMPTY_7": false,
+      "__EMPTY_8": false,
+      "__EMPTY_9": false,
+      "__EMPTY_10": false,
+      "__EMPTY_11": false,
+      "__EMPTY_12": false,
+      "__EMPTY_13": false
+    },
+    {
+      "__EMPTY_1": "BALANÇO",
+      "__EMPTY_2": 200,
+      "__EMPTY_3": 52.56
+    },
+    {
+      "__EMPTY_1": "TOTAL",
+      "__EMPTY_2": 6052.56,
+      "__EMPTY_12": "PRAZO",
+      "__EMPTY_13": "MAR/2027"
+    },
+    {
+      "__EMPTY_1": "META TOTAL",
+      "__EMPTY_2": 50000,
+      "__EMPTY_12": "TEMPO TOTAL",
+      "__EMPTY_13": "17 MESES"
+    },
+    {
+      "__EMPTY_1": "PROGRESSO",
+      "__EMPTY_2": 0.1210512
+    },
+    {
+      "__EMPTY_2": "OUT",
+      "__EMPTY_3": "NOV",
+      "__EMPTY_4": "DEZ",
+      "__EMPTY_5": "JAN",
+      "__EMPTY_6": "FEV",
+      "__EMPTY_7": "MAR",
+      "__EMPTY_8": "ABR",
+      "__EMPTY_9": "MAIO",
+      "__EMPTY_10": "JUN",
+      "__EMPTY_11": "JUL",
+      "__EMPTY_12": "AGOS",
+      "__EMPTY_13": "SET"
+    },
+    {
+      "__EMPTY": "RESERVA",
+      "__EMPTY_1": "ENTRADAS",
+      "__EMPTY_2": 10000,
+      "__EMPTY_3": 400
+    },
+    {
+      "__EMPTY_1": "SAÍDAS",
+      "__EMPTY_2": "-",
+      "__EMPTY_3": "-"
+    },
+    {
+      "__EMPTY_1": "RENDIMENTOS",
+      "__EMPTY_3": 151.76
+    },
+    {
+      "__EMPTY_1": "META MENSAL"
+    },
+    {
+      "__EMPTY_2": true,
+      "__EMPTY_3": true,
+      "__EMPTY_4": false,
+      "__EMPTY_5": false,
+      "__EMPTY_6": false,
+      "__EMPTY_7": false,
+      "__EMPTY_8": false,
+      "__EMPTY_9": false,
+      "__EMPTY_10": false,
+      "__EMPTY_11": false,
+      "__EMPTY_12": false,
+      "__EMPTY_13": false
+    },
+    {
+      "__EMPTY_1": "BALANÇO"
+    },
+    {
+      "__EMPTY_1": "TOTAL",
+      "__EMPTY_2": 10551.76,
+      "__EMPTY_12": "PRAZO",
+      "__EMPTY_13": "-"
+    },
+    {
+      "__EMPTY_1": "META TOTAL",
+      "__EMPTY_2": 25000,
+      "__EMPTY_12": "TEMPO TOTAL",
+      "__EMPTY_13": "-"
+    },
+    {
+      "__EMPTY_1": "PROGRESSO",
+      "__EMPTY_2": 0.4220704
+    },
+    {
+      "__EMPTY_2": "OUT",
+      "__EMPTY_3": "NOV",
+      "__EMPTY_4": "DEZ",
+      "__EMPTY_5": "JAN",
+      "__EMPTY_6": "FEV",
+      "__EMPTY_7": "MAR",
+      "__EMPTY_8": "ABR",
+      "__EMPTY_9": "MAIO",
+      "__EMPTY_10": "JUN",
+      "__EMPTY_11": "JUL",
+      "__EMPTY_12": "AGOS",
+      "__EMPTY_13": "SET"
+    },
+    {
+      "__EMPTY": "MÓVEIS",
+      "__EMPTY_1": "ENTRADAS",
+      "__EMPTY_2": 1000,
+      "__EMPTY_3": 500
+    },
+    {
+      "__EMPTY_1": "SAÍDAS",
+      "__EMPTY_2": "-"
+    },
+    {
+      "__EMPTY_1": "RENDIMENTOS",
+      "__EMPTY_3": 15.67
+    },
+    {
+      "__EMPTY_1": "META MENSAL",
+      "__EMPTY_2": 1625,
+      "__EMPTY_3": 1625,
+      "__EMPTY_4": 1625,
+      "__EMPTY_5": 1625
+    },
+    {
+      "__EMPTY_2": false,
+      "__EMPTY_3": false,
+      "__EMPTY_4": false,
+      "__EMPTY_5": false,
+      "__EMPTY_6": false,
+      "__EMPTY_7": false,
+      "__EMPTY_8": false,
+      "__EMPTY_9": false,
+      "__EMPTY_10": false,
+      "__EMPTY_11": false,
+      "__EMPTY_12": false,
+      "__EMPTY_13": false
+    },
+    {
+      "__EMPTY_1": "BALANÇO"
+    },
+    {
+      "__EMPTY_1": "TOTAL",
+      "__EMPTY_2": 1515.67,
+      "__EMPTY_12": "PRAZO",
+      "__EMPTY_13": "01/2026"
+    },
+    {
+      "__EMPTY_1": "META TOTAL",
+      "__EMPTY_2": 6500,
+      "__EMPTY_12": "TEMPO TOTAL",
+      "__EMPTY_13": "4 MESES"
+    },
+    {
+      "__EMPTY_1": "PROGRESSO",
+      "__EMPTY_2": 0.23318
+    },
+    {
+      "__EMPTY_2": "OUT",
+      "__EMPTY_3": "NOV",
+      "__EMPTY_4": "DEZ",
+      "__EMPTY_5": "JAN",
+      "__EMPTY_6": "FEV",
+      "__EMPTY_7": "MAR",
+      "__EMPTY_8": "ABR",
+      "__EMPTY_9": "MAIO",
+      "__EMPTY_10": "JUN",
+      "__EMPTY_11": "JUL",
+      "__EMPTY_12": "AGOS",
+      "__EMPTY_13": "SET"
+    },
+    {
+      "__EMPTY": "BAHIA",
+      "__EMPTY_1": "ENTRADAS",
+      "__EMPTY_2": 1000,
+      "__EMPTY_3": 550
+    },
+    {
+      "__EMPTY_1": "SAÍDAS",
+      "__EMPTY_2": "-"
+    },
+    {
+      "__EMPTY_1": "RENDIMENTOS",
+      "__EMPTY_3": 15.76
+    },
+    {
+      "__EMPTY_1": "META MENSAL",
+      "__EMPTY_2": 1700,
+      "__EMPTY_3": 1700,
+      "__EMPTY_4": 1700
+    },
+    {
+      "__EMPTY_2": false,
+      "__EMPTY_3": false,
+      "__EMPTY_4": false,
+      "__EMPTY_5": false,
+      "__EMPTY_6": false,
+      "__EMPTY_7": false,
+      "__EMPTY_8": false,
+      "__EMPTY_9": false,
+      "__EMPTY_10": false,
+      "__EMPTY_11": false,
+      "__EMPTY_12": false,
+      "__EMPTY_13": false
+    },
+    {
+      "__EMPTY_1": "BALANÇO"
+    },
+    {
+      "__EMPTY_1": "TOTAL",
+      "__EMPTY_2": 1565.76,
+      "__EMPTY_12": "PRAZO",
+      "__EMPTY_13": "12/2025"
+    },
+    {
+      "__EMPTY_1": "META TOTAL",
+      "__EMPTY_2": 5000,
+      "__EMPTY_12": "TEMPO TOTAL",
+      "__EMPTY_13": "3 MESES"
+    },
+    {
+      "__EMPTY_1": "PROGRESSO",
+      "__EMPTY_2": 0.313152
+    },
+    {
+      "__EMPTY_2": "OUT",
+      "__EMPTY_3": "NOV",
+      "__EMPTY_4": "DEZ",
+      "__EMPTY_5": "JAN",
+      "__EMPTY_6": "FEV",
+      "__EMPTY_7": "MAR",
+      "__EMPTY_8": "ABR",
+      "__EMPTY_9": "MAIO",
+      "__EMPTY_10": "JUN",
+      "__EMPTY_11": "JUL",
+      "__EMPTY_12": "AGOS",
+      "__EMPTY_13": "SET"
+    },
+    {
+      "__EMPTY": "SILICONE",
+      "__EMPTY_1": "ENTRADAS",
+      "__EMPTY_2": "-"
+    },
+    {
+      "__EMPTY_1": "SAÍDAS",
+      "__EMPTY_2": "-"
+    },
+    {
+      "__EMPTY_1": "RENDIMENTOS"
+    },
+    {
+      "__EMPTY_1": "META MENSAL"
+    },
+    {
+      "__EMPTY_2": false,
+      "__EMPTY_3": false,
+      "__EMPTY_4": false,
+      "__EMPTY_5": false,
+      "__EMPTY_6": false,
+      "__EMPTY_7": false,
+      "__EMPTY_8": false,
+      "__EMPTY_9": false,
+      "__EMPTY_10": false,
+      "__EMPTY_11": false,
+      "__EMPTY_12": false,
+      "__EMPTY_13": false
+    },
+    {
+      "__EMPTY_1": "BALANÇO"
+    },
+    {
+      "__EMPTY_1": "TOTAL",
+      "__EMPTY_2": 0,
+      "__EMPTY_12": "PRAZO",
+      "__EMPTY_13": "-"
+    },
+    {
+      "__EMPTY_1": "META TOTAL",
+      "__EMPTY_2": 30000,
+      "__EMPTY_12": "TEMPO TOTAL",
+      "__EMPTY_13": "-"
+    },
+    {
+      "__EMPTY_1": "PROGRESSO",
+      "__EMPTY_2": 0
+    }
+  ]
+}
