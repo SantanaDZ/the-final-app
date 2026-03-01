@@ -66,10 +66,6 @@ export async function updateSession(request: NextRequest) {
         // If you are here, a Supabase client could not be created!
         // This is likely because environment variables are missing.
         console.error('Middleware Error:', e)
-        return NextResponse.next({
-            request: {
-                headers: request.headers,
-            },
-        })
+        return NextResponse.redirect(new URL('/login', request.url))
     }
 }
